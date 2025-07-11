@@ -1,4 +1,4 @@
-# Backend Development Course Assignment - Week 2 -
+# Backend Development Course Assignment - Week 2
 
 ## The Subject
 Learning the basics of [Django](https://www.djangoproject.com) by creating a simple web application that displays a personalized greeting message based on the user's input.
